@@ -1,5 +1,27 @@
 # Beta changelog
 
+## 1.1.0-beta.3
+
+### Added
+- Live admin preview for layout and visual settings.
+- Horizontal and vertical overlay position controls.
+- Improved element scaling and positioning in the OBS overlay.
+- Smooth waiting-music fade-out during the final seconds before the stream starts.
+- Dedicated Beta 3 admin panel: `admin-beta3.html`.
+
+### Preserved
+- RU/EN localization for the admin panel and overlay.
+- Six visual themes: Clean, Dark, Minimal, Neon, Classic and Glass.
+- Six animation modes: None, Fade, Float, Slide, Zoom and Glow.
+- Waiting music and independent audio volume controls.
+- Last-10-seconds tick sound and stream-start sound.
+- 10-second test mode.
+- Custom warning and post-countdown messages.
+- Local background image/video support.
+- 30-second video limit and 120 MB video file limit.
+- OBS Browser Source workflow.
+- Local browser storage.
+
 ## 1.1.0-beta.2
 
 ### Added
